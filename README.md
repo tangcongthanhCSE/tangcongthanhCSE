@@ -1,4 +1,4 @@
-Hi there 👋, I'm Thành Tăng!
+Hi there 👋, I'm Thành!
 
 👨‍💻 About Me
 -I'm a passionate 3rd-year Computer Science student at Ho Chi Minh City University of Technology (HCMUT), specializing in Applied Artificial Intelligence. I'm a quick learner and thrive on tackling complex challenges.
